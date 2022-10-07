@@ -8,7 +8,7 @@
 		"audio-format": "2.3.2",
 		"express": "4.16.4",
 		"log4js": "3.0.6",
-		"naudiodon": "0.4.7",
+		"naudiodon": "2.3.6",
 		"socket.io": "2.1.1",
 		"uuid": "3.3.2"
 	},
