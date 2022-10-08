@@ -5,6 +5,7 @@ A node.js app to visualise and configure [eSense](http://www.esense.io) sensory 
 This is the modified version of eSense Data Visualiser, we have tested this program on the following software:
 * Windows 10 20H1
 * Visual Studio 2022 Community with Node.js Development and C++ Desktop Development support installed
+* Python 3.7 from Windows Store
 * node.js version 12.22.9
 * npm version 6.14.15 (Comes with Node.js installer)
 
