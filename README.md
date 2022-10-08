@@ -2,10 +2,11 @@
 A node.js app to visualise and configure [eSense](http://www.esense.io) sensory streams in real-time. 
 
 ## Requirements
-At the moment only macOS is supported and specific versions of node.js and npm are required:
-* macOS Mojave (10.14.4 or later)
-* node.js version 8.16.0 
-* npm version 6.4.1
+This is the modified version of eSense Data Visualiser, we have tested this program on the following software:
+* Windows 10 20H1
+* Visual Studio 2022 Community with Node.js Development and C++ Desktop Development support installed
+* node.js version 12.22.9
+* npm version 6.14.15 (Comes with Node.js installer)
 
 ## Documentation
 Find the app documentation at [this link](http://www.esense.io/share/eSense-Visualiser-Documentation.pdf).
